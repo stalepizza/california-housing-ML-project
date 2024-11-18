@@ -1,6 +1,3 @@
-according to this: https://github.com/stalepizza/california-housing-ML-project.git
-Fantastic! Here’s an updated README file tailored for your GitHub repository. This will give anyone visiting your project a clear understanding of what it’s about and how to use it:
-
 California Housing Price Prediction
 Welcome to the California Housing Price Prediction project! 🚀
 
